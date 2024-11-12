@@ -1,0 +1,58 @@
+fontawesome icon....
+
+<i class="fa-solid fa-star"></i>
+<i class="fa-solid fa-star-half"></i>
+<i class="fa-brands fa-facebook"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-behance"></i>
+<i class="fa-brands fa-linkedin"></i>
+<i class="fa-brands fa-google-plus-g"></i>
+<i class="fa-solid fa-alarm-clock"></i>
+<i class="fa-solid fa-globe"></i>
+<i class="fa-solid fa-chart-line"></i>
+<i class="fa-solid fa-display"></i>
+<i class="fa-solid fa-book-open-cover"></i>
+<i class="fa-solid fa-house-chimney"></i>
+<i class="fa-solid fa-arrows-spin"></i>
+<i class="fa-solid fa-arrows-maximize"></i>
+<i class="fa-solid fa-arrows-minimize"></i>
+<i class="fa-solid fa-angle-left"></i>
+<i class="fa-brands fa-instagram-square"></i>
+<i class="fa-brands fa-pinterest-p"></i>
+<i class="fa-brands fa-youtube"></i>
+<i class="fa-solid fa-circle"></i>
+<i class="fa-regular fa-circle"></i>
+<i class="fa-solid fa-x"></i>
+<i class="fa-solid fa-angle-right"></i>
+<i class="fa-solid fa-location-dot"></i>
+<i class="fa-solid fa-camera"></i>
+<i class="fa-solid fa-phone"></i>
+<i class="fa-solid fa-phone-volume"></i>
+<i class="fas fa-hands-helping"></i>
+<i class="fa-solid fa-heart"></i>
+<i class="fa-solid fa-envelope"></i>
+<i class="fa-solid fa-link"></i>
+<i class="fa-brands fa-pinterest-p"></i>
+<i class="fa-brands fa-pinterest"></i>
+
+
+
+<i class="fa-brands fa-facebook"></i>
+<i class="fa-brands fa-google-plus-g"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-behance"></i>
+<i class="fa-brands fa-linkedin"></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
